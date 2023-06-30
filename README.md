@@ -2,7 +2,7 @@
 
 ## Pobieranie
 
-Kliknij przycisk poniżej, aby pobrać grę:
+Kliknij przycisk poniżej, aby pobrać grę: <br/>
 [**Pobierz grę**](https://github.com/wolny-j/project-moonlight-builds/archive/refs/heads/main.zip)
 
 ## Instrukcje instalacji
