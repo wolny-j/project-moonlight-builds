@@ -9,4 +9,4 @@ Kliknij przycisk poniżej, aby pobrać grę:
 
 1. Pobierz plik ZIP gry, korzystając z przycisku powyżej.
 2. Rozpakuj plik ZIP.
-3. Uruchom grę, plik otwierając project-moonlight.exe
+3. Uruchom grę, otwierając plik project-moonlight.exe
