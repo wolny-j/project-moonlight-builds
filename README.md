@@ -1,4 +1,4 @@
-# Project Moonliht Pre-alpha 1.0 #
+# Project Moonliht Pre-alpha 1.2 #
 
 ## Pobieranie
 
